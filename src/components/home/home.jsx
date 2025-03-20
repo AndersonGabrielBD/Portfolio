@@ -4,7 +4,7 @@ import Image from "../../assets/fotolinkedin.jpg";
 
 const Home = () => {
   return (
-    <section className="w-full pb-[300px] bg-slate-300 dark:bg-gray-900 dark:text-white flex flex-col justify-center items-center py-12 md:pl-[200px]">
+    <section className="w-full pt-20 pb-[300px] bg-slate-300 dark:bg-gray-900 dark:text-white flex flex-col justify-center items-center py-12 md:pl-[200px]">
       <div className="container grid grid-cols-1 sm:grid-cols-2 gap-12">
         
       
