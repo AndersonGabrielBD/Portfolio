@@ -3,6 +3,13 @@ import CardProject from "./CardProject";
 
 const projects = [
   {
+    title: "PostItNow",
+    image: "desktoppostit.png",
+    description: "Este projeto é um aplicativo web de post-its digitais que desenvolvi para resolver um problema comum: como capturar ideias e tarefas de forma rápida e organizada. Com design intuitivo e sincronização em nuvem, permite criar, arrastar e organizar lembretes facilmente, acessível de qualquer dispositivo após login seguro.",
+    repoLink: "https://github.com/AndersonGabrielBD/PostItNow",
+    liveLink: "https://postitnow1.netlify.app/",
+  },
+  {
     title: "TodoList Com API",
     image: "desktop.png",
     description: "Este é um Todo List interativo desenvolvido com React e Vite, que permite adicionar, remover e marcar tarefas como concluídas. Além disso consome uma API externa que fica exibindo frases motivacionais.",
@@ -16,6 +23,7 @@ const projects = [
     repoLink: "https://github.com/AndersonGabrielBD/alcance-clinica-freela",
     liveLink: "https://alcanceclinica.netlify.app/",
   },
+
 
   
 ];
