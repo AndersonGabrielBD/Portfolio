@@ -10,19 +10,20 @@ const projects = [
     liveLink: "https://postitnow1.netlify.app/",
   },
   {
-    title: "TodoList Com API",
-    image: "desktop.png",
-    description: "Este é um Todo List interativo desenvolvido com React e Vite, que permite adicionar, remover e marcar tarefas como concluídas. Além disso consome uma API externa que fica exibindo frases motivacionais.",
-    repoLink: "https://github.com/AndersonGabrielBD/Todo-list",
-    liveLink: "https://todolistdiario.netlify.app/",
-  },
-  {
     title: "LandingPage Alcance",
     image: "desktop2.png",
     description: "Este projeto consiste na Landing Page desenvolvida para a Clínica Alcance, especializada em fonoaudiologia. A página foi criada como freela para proporcionar uma presença online clara e atraente para a clínica, com foco em informar os pacientes sobre os serviços oferecidos e facilitar o contato com os profissionais da clínica.",
     repoLink: "https://github.com/AndersonGabrielBD/alcance-clinica-freela",
     liveLink: "https://alcanceclinica.netlify.app/",
   },
+  {
+    title: "TodoList Com API",
+    image: "desktop.png",
+    description: "Este é um Todo List interativo desenvolvido com React e Vite, que permite adicionar, remover e marcar tarefas como concluídas. Além disso consome uma API externa que fica exibindo frases motivacionais.",
+    repoLink: "https://github.com/AndersonGabrielBD/Todo-list",
+    liveLink: "https://todolistdiario.netlify.app/",
+  },
+ 
 
 
   
