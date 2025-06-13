@@ -19,10 +19,10 @@ const About = () => {
         >
           <h1 className="text-[40px] md:text-[50px] font-bold mb-6">Sobre mim</h1>
           <p className="mb-6">
-            Sou um desenvolvedor frontend em formação, apaixonado por tecnologia e sempre em busca de aprendizado. Minha jornada na área de TI combina experiência prática com projetos pessoais e estágio em suporte técnico, onde desenvolvi habilidades de resolução de problemas e aprimoramento de sistemas.
+            Sou um desenvolvedor de software, movido pela resolução de problemas e pela busca constante por evolução. Atualmente estou atuando tanto na área de engenharia de dados quanto na área de desenvolvimento front-end — experiências que fortaleceram minha capacidade analítica, adaptabilidade e visão sistêmica.
           </p>
           <p className="mb-6">
-            Tenho um forte compromisso com a evolução contínua, aplicando meus conhecimentos em programação para criar soluções eficientes e intuitivas. Meu objetivo é consolidar minha carreira no desenvolvimento de software, contribuindo para projetos inovadores e desafiadores.
+            Tenho experiência prática com construção de interfaces modernas, manipulação e transformação de dados, além de colaborar em projetos onde performance e organização dos dados eram fundamentais. Estou em constante aprimoramento, com foco em contribuir para soluções inteligentes, funcionais e que realmente fazem a diferença.
           </p>
           <p className="text-gray-800 mb-4">Entre em contato comigo</p>
           <div>

@@ -46,6 +46,7 @@ const Experience = () => {
             um ambiente de trabalho mais eficiente. 
           </p>
         </motion.div>
+        
 
         {/* Tecnologias com efeito de entrada sequencial */}
         <div className="flex flex-col space-y-4 pl-8 md:pl-[300px]">

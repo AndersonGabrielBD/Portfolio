@@ -18,11 +18,10 @@ const Home = () => {
             Anderson Gabriel
           </p>
           <p className="text-3xl text-gray-700 dark:text-white">
-            Desenvolvedor Frontend <br />
+            Desenvolvedor de Software <br />
           </p>
           <p className="text-black/75 dark:text-white/70">
-            Desenvolvedor frontend focado em criar interfaces intuitivas e eficientes. Gosto de transformar ideias em experiências funcionais, sempre buscando melhorar e aprender com novos desafios.
-          </p>
+Desenvolvedor de software com experiência em engenharia de dados, movido por desafios e focado em resolver problemas reais com soluções eficientes. Tenho perfil analítico, mente prática e atitude proativa para transformar complexidade em resultados concretos. Estou sempre em evolução, buscando aprimorar habilidades e agregar valor em cada projeto.          </p>
           <a
             href="curriculo.pdf"
             download
